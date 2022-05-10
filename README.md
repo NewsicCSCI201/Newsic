@@ -1,10 +1,7 @@
 # Newsic
 Newsic Website
-This is our CSCI 201 final project
 
 Newsic is a music social media app linked with itunes music to help discovering new music seamlessly. Users can create posts to share their new music finds, search for other users to discover their new music finds and add songs to a personal playlist to have a never ending stream of new music. 
-
-This is a link to our presentation: https://www.youtube.com/watch?v=PVBXD-tL73s&feature=youtu.beDeployment 
 
 Deployment Documentation:
 Make sure Tomacat v9 is installed and MySql is installed
@@ -24,3 +21,5 @@ c. Select Project facets
 d. On the top of the popup click the dropdown next to configurations and select
 default configuration for tomcat v9 e. Click apply and close
 9. run home.jsp on the tomcat 9 server
+
+This is a link to our presentation: https://www.youtube.com/watch?v=PVBXD-tL73s&feature=youtu.beDeployment 
